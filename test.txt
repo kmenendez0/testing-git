@@ -1,0 +1,1 @@
+test text file for the purposse of educating myself in console commands as well as how git works.
