@@ -1,1 +1,3 @@
-test text file for the purposse of educating myself in console commands as well as how git works.
+test text file for the purpose of educating myself in console commands as well as how git works.
+
+edit: truly a huge difference in this text file
